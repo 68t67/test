@@ -11,3 +11,6 @@ public class with sharing MotoClass{
         red255:kkkkkkkkkk;
     }
 }
+
+
+sdncsdlcsld.ForEach(jdjd = > jdjdjdjdjjd+sdjjdjsdsjd);
