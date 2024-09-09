@@ -1,0 +1,13 @@
+modify area(){
+    sdjfdsl = dsjd.sdlsdkls({
+        sdfsdfsd:"sdfsdfsdfsdf",
+        sdfsdfbg:"dsfewet"
+    })
+}
+
+
+public class with sharing MotoClass{
+    MotoClass(){
+        red255:kkkkkkkkkk;
+    }
+}
